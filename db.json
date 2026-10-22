@@ -1,0 +1,55 @@
+
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "آموزش Next.js",
+      "body": "آشنایی با App Router و ساخت صفحات در Next.js"
+    },
+    {
+      "id": "2",
+      "title": "آموزش TypeScript",
+      "body": "آشنایی با Typeها، Interfaceها و Type Safety"
+    },
+    {
+      "id": "3",
+      "title": "مفاهیم پایه React",
+      "body": "یادگیری Component، Props، State و مدیریت رویدادها"
+    },
+    {
+      "id": "4",
+      "title": "آموزش Tailwind CSS",
+      "body": "طراحی رابط کاربری واکنش‌گرا با کلاس‌های کاربردی Tailwind"
+    },
+    {
+      "id": "5",
+      "title": "آشنایی با REST API",
+      "body": "مفاهیم HTTP، متدهای GET و POST و دریافت داده از سرور"
+    },
+    {
+      "id": "6",
+      "title": "مدیریت State در React",
+      "body": "آشنایی با useState و روش مدیریت وضعیت کامپوننت‌ها"
+    },
+    {
+      "id": "7",
+      "title": "آموزش React Hooks",
+      "body": "بررسی کاربرد useEffect و سایر Hookهای پرکاربرد React"
+    },
+    {
+      "id": "8",
+      "title": "آموزش Git و GitHub",
+      "body": "مدیریت نسخه‌های پروژه، ساخت Branch و ارسال تغییرات به GitHub"
+    },
+    {
+      "id": "9",
+      "title": "بهینه‌سازی عملکرد وب‌سایت",
+      "body": "آشنایی با بهینه‌سازی تصاویر، کاهش حجم JavaScript و بهبود سرعت بارگذاری"
+    },
+    {
+      "id": "10",
+      "title": "آشنایی با Server Components",
+      "body": "بررسی تفاوت Server Components و Client Components در Next.js"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const nav = [
   { title: "خانه", href: "/" },
-  { title: "وبلاگ", href: "/showblog" },
+  { title: "وبلاگ", href: "/Blogshow" },
   { title: "اضافه کردن  بلاگ", href: "/addblog" },
 ];
 
